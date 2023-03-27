@@ -2,6 +2,9 @@
 
 A new Flutter project. fetch from https://jsonplaceholder.typicode.com/users/1
 
+## Preview
+
+![](./preview.jpeg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
