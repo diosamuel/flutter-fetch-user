@@ -1,6 +1,6 @@
-# user_app
+# Flutter Fetch User
 
-A new Flutter project.
+A new Flutter project. fetch from https://jsonplaceholder.typicode.com/users/1
 
 ## Getting Started
 
